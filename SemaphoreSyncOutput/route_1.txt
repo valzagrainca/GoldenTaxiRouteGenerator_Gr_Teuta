@@ -1,0 +1,32 @@
+2 Rrustem_Statovci Isa_Kastrati
+1 Hyzri_Talla
+1 Hyzri_Talla
+1 Hyzri_Talla
+1 Fadil_Ferati
+2 Hyzri_Talla Bahri_Fazliu
+1 Bahri_Fazliu
+1 Bahri_Fazliu
+1 Bahri_Fazliu
+1 Bahri_Fazliu
+1 Bahri_Fazliu
+1 Fadil_Vata
+1 Bahri_Fazliu
+1 Arbënor_e_Astrit_Dehari
+1 Arbënor_e_Astrit_Dehari
+1 Arbënor_e_Astrit_Dehari
+1 Arbënor_e_Astrit_Dehari
+1 Arbënor_e_Astrit_Dehari
+2 Arbënor_e_Astrit_Dehari Hipokrati
+2 Arbënor_e_Astrit_Dehari Hipokrati
+1 Hipokrati
+1 Hipokrati
+1 Hipokrati
+1 Hipokrati
+1 Hipokrati
+1 Hipokrati
+1 Qendra_Spitalore
+1 Qendra_Spitalore
+7 Gucia Xim_Xhema Holger_Pedersen Elbasani Lushnja Zejnullah_Zena Shkupi
+1 Shkupi
+4 Xim_Xhema Shkupi Qendra_Spitalore Fazli_Balaj
+1 Harun_Aliu
