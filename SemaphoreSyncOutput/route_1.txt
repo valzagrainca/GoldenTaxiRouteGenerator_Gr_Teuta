@@ -1,32 +1,54 @@
-2 Rrustem_Statovci Isa_Kastrati
-1 Hyzri_Talla
-1 Hyzri_Talla
-1 Hyzri_Talla
-1 Fadil_Ferati
-2 Hyzri_Talla Bahri_Fazliu
-1 Bahri_Fazliu
-1 Bahri_Fazliu
-1 Bahri_Fazliu
-1 Bahri_Fazliu
-1 Bahri_Fazliu
-1 Fadil_Vata
-1 Bahri_Fazliu
-1 Arbënor_e_Astrit_Dehari
-1 Arbënor_e_Astrit_Dehari
-1 Arbënor_e_Astrit_Dehari
-1 Arbënor_e_Astrit_Dehari
-1 Arbënor_e_Astrit_Dehari
-2 Arbënor_e_Astrit_Dehari Hipokrati
-2 Arbënor_e_Astrit_Dehari Hipokrati
-1 Hipokrati
-1 Hipokrati
-1 Hipokrati
-1 Hipokrati
-1 Hipokrati
-1 Hipokrati
-1 Qendra_Spitalore
-1 Qendra_Spitalore
-7 Gucia Xim_Xhema Holger_Pedersen Elbasani Lushnja Zejnullah_Zena Shkupi
-1 Shkupi
-4 Xim_Xhema Shkupi Qendra_Spitalore Fazli_Balaj
-1 Harun_Aliu
+2412 237 51 1 100
+2 3 Rrustem_Statovci_2_3 10.00
+3 4 Rrustem_Statovci_3_4 10.00
+4 5 Isa_Kastrati_4_5 10.00
+5 6 Isa_Kastrati_5_6 10.00
+6 7 Isa_Kastrati_6_7 10.00
+7 8 Isa_Kastrati_7_8 10.00
+8 9 Isa_Kastrati_8_9 10.00
+9 10 Isa_Kastrati_9_10 10.00
+10 11 Isa_Kastrati_10_11 10.00
+13 14 Isa_Kastrati_13_14 311.00
+17 18 Hyzri_Talla_17_18 10.00
+20 21 Bahri_Fazliu_20_21 13.00
+26 27 Fadil_Vata_26_27 34.00
+27 28 Bahri_Fazliu_27_28 85.00
+32 33 Arbënor_e_Astrit_Dehari_32_33 9.00
+36 37 Arbënor_e_Astrit_Dehari_36_37 10.00
+37 38 Arbënor_e_Astrit_Dehari_37_38 8.00
+58 59 Hipokrati_58_59 12.00
+59 60 Qendra_Spitalore_59_60 12.00
+68 69 Gucia_68_69 10.00
+74 75 Holger_Pedersen_74_75 10.00
+75 76 Holger_Pedersen_75_76 10.00
+77 78 Elbasani_77_78 9.00
+78 79 Lushnja_78_79 9.00
+79 80 Zejnullah_Zena_79_80 10.00
+85 86 Zejnullah_Zena_85_86 10.00
+88 89 Shkupi_88_89 10.00
+89 90 Shkupi_89_90 10.00
+90 91 Shkupi_90_91 10.00
+91 92 Shkupi_91_92 10.00
+92 93 Shkupi_92_93 7.00
+96 97 Shkupi_96_97 11.00
+97 98 Shkupi_97_98 10.00
+98 99 Shkupi_98_99 10.00
+99 100 Shkupi_99_100 10.00
+100 101 Shkupi_100_101 6.00
+103 104 Shkupi_103_104 10.00
+104 105 Shkupi_104_105 9.00
+105 106 Shkupi_105_106 10.00
+106 107 Shkupi_106_107 10.00
+107 108 Shkupi_107_108 10.00
+109 110 Shkupi_109_110 10.00
+110 111 Shkupi_110_111 9.00
+111 112 Xim_Xhema_111_112 10.00
+112 113 Shkupi_112_113 10.00
+207 208 Kadri_Zeka_207_208 10.00
+220 221 Jusuf_Gërvalla_220_221 10.00
+221 222 Ali_Vitia_221_222 10.00
+222 223 Fadil_Hoxha_222_223 10.00
+230 231 Fazli_Balaj_230_231 418.00
+233 234 Harun_Aliu_233_234 9.00
+51 Rrustem_Statovci_2_3 Rrustem_Statovci_3_4 Isa_Kastrati_4_5 Isa_Kastrati_5_6 Isa_Kastrati_6_7 Isa_Kastrati_7_8 Isa_Kastrati_8_9 Isa_Kastrati_9_10 Isa_Kastrati_10_11 Isa_Kastrati_13_14 Hyzri_Talla_17_18 Bahri_Fazliu_20_21 Fadil_Vata_26_27 Bahri_Fazliu_27_28 Arbënor_e_Astrit_Dehari_32_33 Arbënor_e_Astrit_Dehari_36_37 Arbënor_e_Astrit_Dehari_37_38 Hipokrati_58_59 Qendra_Spitalore_59_60 Gucia_68_69 Holger_Pedersen_74_75 Holger_Pedersen_75_76 Elbasani_77_78 Lushnja_78_79 Zejnullah_Zena_79_80 Zejnullah_Zena_85_86 Shkupi_88_89 Shkupi_89_90 Shkupi_90_91 Shkupi_91_92 Shkupi_92_93 Shkupi_96_97 Shkupi_97_98 Shkupi_98_99 Shkupi_99_100 Shkupi_100_101 Shkupi_103_104 Shkupi_104_105 Shkupi_105_106 Shkupi_106_107 Shkupi_107_108 Shkupi_109_110 Shkupi_110_111 Xim_Xhema_111_112 Shkupi_112_113 Kadri_Zeka_207_208 Jusuf_Gërvalla_220_221 Ali_Vitia_221_222 Fadil_Hoxha_222_223 Fazli_Balaj_230_231 Harun_Aliu_233_234
+
