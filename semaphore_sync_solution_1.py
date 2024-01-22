@@ -127,7 +127,7 @@ def process_csv_files(csv_data, output_folder):
             elif row['Di2'] == 0 and passengerPickedUp:
                 # When passenger is dropped off
                 passengerPickedUp = False
-                output_file = os.path.join(output_folder, f"output_{csv_file_counter}.txt")
+                output_file = os.path.join(output_folder, f"output_solution_1_file_{csv_file_counter}.txt")
 
                 with open(output_file, 'a') as file:
                     for element in segment_list:
