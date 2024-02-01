@@ -1,0 +1,2233 @@
+{
+    "simulation": {
+        "duration": 600,
+        "intersections": 57,
+        "streets": 165,
+        "cars": 15,
+        "bonus": 100,
+        "objectives": [
+            "Delay_minimization",
+            "Mean_queue_length_minimization",
+            "Max_queue_length_minimization",
+            "Increasing_average_vehicle_speed"
+        ],
+        "limit_on_minimum_cycle_length": 100,
+        "limit_on_maximum_cycle_length": 120,
+        "limit_on_minimum_green_phase_duration": 15,
+        "limit_on_maximum_green_phase_duration": 80,
+        "phase_sequence": "Phase_sequence_is_selected_among_phase_groups"
+    },
+    "intersections":[
+        {
+            "id": 1,
+            "name": "BillClinton",
+            "lat": 42.654261, 
+            "lng": 21.152657
+        },
+        {
+            "id": 1001,
+            "name": "Lakrishte",
+            "lat": 42.653592, 
+            "lng": 21.150448
+        },
+        {
+            "id": 1002,
+            "name": "Tuneli",
+            "lat": 42.653691, 
+            "lng": 21.152960
+        },
+        {
+            "id": 1003,
+            "name": "ShtjefenGjeqovi",
+            "lat": 42.654629, 
+            "lng": 21.152283
+        },
+        {
+            "id": 2,
+            "name": "Santea",
+            "lat": 42.655118,  
+            "lng": 21.155765
+        },
+        {
+            "id": 2001,
+            "name": "RobertDoll",
+            "lat": 42.655878,  
+            "lng": 21.155342
+        },
+        {
+            "id": 3,
+            "name": "Katedralja",
+            "lat": 42.655576, 
+            "lng": 21.159651
+        },
+        {
+            "id": 4,
+            "name": "Teknik",
+            "lat": 42.650273,  
+            "lng": 21.164830
+        },
+        {
+            "id": 4001,
+            "name": "FehmiLladrovci",
+            "lat": 42.648902,  
+            "lng": 21.163795
+        },
+        {
+            "id": 5,
+            "name": "Qerimi",
+            "lat": 42.654076,   
+            "lng": 21.167687
+        },
+        {
+            "id": 5001,
+            "name": "HajrullahAbdullahu",
+            "lat": 42.654638,   
+            "lng": 21.168288
+        },
+        {
+            "id": 5002,
+            "name": "EnverMaloku",
+            "lat": 42.653367,   
+            "lng": 21.168253
+        },
+        {
+            "id": 6,
+            "name": "RrugaB",
+            "lat": 42.649013,   
+            "lng": 21.172650
+        },
+        {
+            "id": 6001,
+            "name": "BibajSport",
+            "lat": 42.648009,   
+            "lng": 21.171872
+        },
+        {
+            "id": 6002,
+            "name": "MaxiMarket",
+            "lat": 42.650404,   
+            "lng": 21.174087
+        },
+        {
+            "id": 7,
+            "name": "MAShTI",
+            "lat": 42.659137,   
+            "lng": 21.164555
+        },
+        {
+            "id": 7001,
+            "name": "KarlGega",
+            "lat": 42.659080,   
+            "lng": 21.165188
+        },
+        {
+            "id": 8,
+            "name": "Parlamenti",
+            "lat": 42.665671,  
+            "lng": 21.165193
+        },
+        {
+            "id": 8001,
+            "name": "IbrahimLutfiu",
+            "lat": 42.665902,  
+            "lng": 21.165943
+        },
+        {
+            "id": 9,
+            "name": "XhamiaLlapitTregu",
+            "lat": 42.669042,   
+            "lng": 21.163723
+        },
+        {
+            "id": 9001,
+            "name": "LidhjaPrizrenit",
+            "lat": 42.668669,   
+            "lng": 21.163080
+        },
+        {
+            "id": 9002,
+            "name": "MetoBajraktari",
+            "lat": 42.669293,   
+            "lng": 21.164370
+        },
+        {
+            "id": 10,
+            "name": "XhamiaLlapit",
+            "lat": 42.671376,  
+            "lng": 21.161779
+        },
+        {
+            "id": 10001,
+            "name": "LidhjaLezhes",
+            "lat": 42.671112,  
+            "lng": 21.161126
+        },
+        {
+            "id": 10002,
+            "name": "VellezeritFazliu",
+            "lat": 42.671789,  
+            "lng": 21.162383
+        },
+        {
+            "id": 11,
+            "name": "Vranjefc",
+            "lat": 42.688585,   
+            "lng": 21.158899
+        },
+        {
+            "id": 11001,
+            "name": "IsmetKrasniqi",
+            "lat": 42.688048,   
+            "lng": 21.158926
+        },
+        {
+            "id": 11002,
+            "name": "Bardhosh",
+            "lat": 42.689035,   
+            "lng": 21.158963
+        },
+        {
+            "id": 11003,
+            "name": "AzizZhilivoda",
+            "lat": 42.688636,   
+            "lng": 21.158465
+        },
+        {
+            "id": 12,
+            "name": "Tjegullorja",
+            "lat": 42.669213,   
+            "lng": 21.158287
+        },
+        {
+            "id": 12001,
+            "name": "Zagrebi",
+            "lat": 42.668727,   
+            "lng": 21.157932
+        },
+        {
+            "id": 12002,
+            "name": "Vushtrria",
+            "lat": 42.669046,   
+            "lng": 21.158730
+        },
+        {
+            "id": 12003,
+            "name": "UnazaQendrore",
+            "lat": 42.669427,   
+            "lng": 21.158528
+        },
+        {
+            "id": 12004,
+            "name": "Plava",
+            "lat": 42.669441,   
+            "lng": 21.157807
+        },
+        {
+            "id": 13,
+            "name": "PTK",
+            "lat": 42.651219,   
+            "lng": 21.158474
+        },
+        {
+            "id": 13001,
+            "name": "28Nentori",
+            "lat": 42.650660,   
+            "lng": 21.157752
+        },
+        {
+            "id": 13002,
+            "name": "BulevardiDK",
+            "lat": 42.650248,   
+            "lng": 21.158273
+        },
+        {
+            "id": 13003,
+            "name": "ImzotNikeprela",
+            "lat": 42.650986,   
+            "lng": 21.158937
+        },
+        {
+            "id": 14,
+            "name": "Lulishtja",
+            "lat": 42.665266,   
+            "lng": 21.156275
+        },
+        {
+            "id": 14001,
+            "name": "FehmiAgani",
+            "lat": 42.664845,   
+            "lng": 21.157338
+        },
+        {
+            "id": 14002,
+            "name": "UCK",
+            "lat": 42.665343,   
+            "lng": 21.157490
+        },
+        {
+            "id": 14003,
+            "name": "KolegjiRiinvest",
+            "lat": 42.665757,   
+            "lng": 21.156447
+        },
+        {
+            "id": 14004,
+            "name": "Tirana",
+            "lat": 42.664900,   
+            "lng": 21.155519
+        },
+        {
+            "id": 15,
+            "name": "BQK",
+            "lat": 42.659776,  
+            "lng": 21.157774
+        },
+        {
+            "id": 15001,
+            "name": "Garibaldi",
+            "lat": 42.659223,  
+            "lng": 21.157038
+        },
+        {
+            "id": 15002,
+            "name": "UkshinHoti",
+            "lat": 42.659514,  
+            "lng": 21.159330
+        },
+        {
+            "id": 15003,
+            "name": "Grandi",
+            "lat": 42.660504,  
+            "lng": 21.158507
+        },
+        {
+            "id": 15004,
+            "name": "LuanHaradinaj",
+            "lat": 42.660227,  
+            "lng": 21.156896
+        },
+        {
+            "id": 16,
+            "name": "Eulexi",
+            "lat": 42.646061,    
+            "lng": 21.167466
+        },
+        {
+            "id": 16001,
+            "name": "ArbenorEAstritDehari",
+            "lat": 42.646773,    
+            "lng": 21.165358
+        },
+        {
+            "id": 16002,
+            "name": "ErnestKoliqi",
+            "lat": 42.645255,    
+            "lng": 21.167021
+        },
+        {
+            "id": 16003,
+            "name": "MuharremFejza",
+            "lat": 42.645724,    
+            "lng": 21.168488
+        },
+        {
+            "id": 17,
+            "name": "Menza",
+            "lat": 42.654922,    
+            "lng": 21.164106
+        },
+        {
+            "id": 18,
+            "name": "KomunaRe",
+            "lat": 42.657069,    
+            "lng": 21.145009
+        },
+        {
+            "id": 18001,
+            "name": "AhmetKrasniqi",
+            "lat": 42.656577,    
+            "lng": 21.143886
+        },
+        {
+            "id": 18002,
+            "name": "Cacttus",
+            "lat": 42.656737,    
+            "lng": 21.145785
+        },
+        {
+            "id": 18003,
+            "name": "HotelAdria",
+            "lat": 42.657785,    
+            "lng": 21.145840
+        }
+    ],
+    "streets": [
+        {
+            "start": 1001,
+            "end": 1,
+            "name": "Lakrishte_BillClinton_Santea",
+            "time": 60,
+            "exit_roads": [
+                "BillClinton_Santea_Katedralja",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 1001,
+            "end": 1,
+            "name": "Lakrishte_BillClinton_Tuneli",
+            "time": 60,
+            "exit_roads": [
+                "Tuneli"
+            ]
+        },
+        {
+            "start": 1001,
+            "end": 1,
+            "name": "Lakrishte_BillClinton_ShtjefenGjeqovi",
+            "time": 60, 
+            "exit_roads": [
+                "ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "start": 2, 
+            "end": 1,
+            "name": "Santea_BillClinton_Lakrishte",
+            "time": 120,
+            "exit_roads": [
+                "Lakrishte"
+            ]
+        },
+        {
+            "start": 2, 
+            "end": 1,
+            "name": "Santea_BillClinton_ShtjefenGjeqovi",
+            "time": 120,
+            "exit_roads": [
+                "ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "start": 2, 
+            "end": 1,
+            "name": "Santea_BillClinton_Tuneli",
+            "time": 120,
+            "exit_roads": [
+                "Tuneli"
+            ]
+        },
+        {
+            "start": 1002,
+            "end": 1,
+            "name": "Tuneli_BillClinton_ShtjefenGjeqovi",
+            "time": 60,
+            "exit_roads": [
+                "ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "start": 1002,
+            "end": 1,
+            "name": "Tuneli_BillClinton_Lakrishte",
+            "time": 60,
+            "exit_roads": [
+                "Lakrishte"
+            ]
+        },
+        {
+            "start": 1002,
+            "end": 1,
+            "name": "Tuneli_BillClinton_Santea",
+            "time": 60,
+            "exit_roads": [
+                "BillClinton_Santea_Katedralja",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 1003,
+            "end": 1,
+            "name": "ShtjefenGjeqovi_BillClinton_Tuneli",
+            "time": 30,
+            "exit_roads": [
+                "Tuneli"
+            ]
+        },
+        {
+            "start": 1003,
+            "end": 1,
+            "name": "ShtjefenGjeqovi_BillClinton_Santea",
+            "time": 30,
+            "exit_roads": [
+                "BillClinton_Santea_Katedralja",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 1003,
+            "end": 1,
+            "name": "ShtjefenGjeqovi_BillClinton_Lakrishte",
+            "time": 30,
+            "exit_roads": [
+                "Lakrishte"
+            ]
+        },
+        {
+            "start": 1,
+            "end": 2,
+            "name": "BillClinton_Santea_Katedralja",
+            "time": 120,
+            "exit_roads": [
+                "Santea_Katedralja_Santea", 
+                "Santea_Katedralja_Menza",
+                "Santea_Katedralja_PTK"
+            ]
+        },
+        {
+            "start": 1,
+            "end": 2,
+            "name": "BillClinton_Santea_RobertDoll",
+            "time": 120,
+            "exit_roads": [
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 3,
+            "end": 2,
+            "name": "Katedralja_Santea_BillClinton",
+            "time": 120,
+            "exit_roads": [
+                "Lakrishte",
+                "ShtjefenGjeqovi",
+                "Tuneli"
+            ]
+        },
+        {
+            "start": 3,
+            "end": 2,
+            "name": "Katedralja_Santea_RobertDoll",
+            "time": 120,
+            "exit_roads": [
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 2001,
+            "end": 2,
+            "name": "RobertDoll_Santea_BillClinton",
+            "time": 30,
+            "exit_roads": [
+                "Lakrishte",
+                "ShtjefenGjeqovi",
+                "Tuneli"
+            ]
+        },
+        {
+            "start": 2001,
+            "end": 2,
+            "name": "RobertDoll_Santea_Katedralja",
+            "time": 30,
+            "exit_roads": [
+                "Santea_Katedralja_Santea",
+                "Santea_Katedralja_Menza",
+                "Santea_Katedralja_PTK"
+            ]
+        },
+        {
+            "start": 13, 
+            "end": 3,
+            "name": "PTK_Katedralja_Santea",
+            "time": 180,
+            "exit_roads": [
+                "Katedralja_Santea_BillClinton",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 13,
+            "end": 3,
+            "name": "PTK_Katedralja_Menza",
+            "time": 180,
+            "exit_roads": [
+                "Katedralja_Menza_MAShTI",
+                "Katedralja_Menza_Qerimi",
+                "Katedralja_Menza_Teknik",
+                "Katedralja_Menza_Katedralja" 
+            ]
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "name": "Santea_Katedralja_Menza",
+            "time": 120,
+            "exit_roads": [
+                "Katedralja_Menza_Katedralja", 
+                "Katedralja_Menza_MAShTI",
+                "Katedralja_Menza_Qerimi",
+                "Katedralja_Menza_Teknik"
+            ]
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "name": "Santea_Katedralja_PTK",
+            "time": 120,
+            "exit_roads": [
+                "BulevardiDK", 
+                "ImzotNikeprela",
+                "28Nentori"
+            ]
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "name": "Santea_Katedralja_Santea",
+            "time": 120,
+            "exit_roads": [
+                "Katedralja_Santea_BillClinton",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 3,
+            "name": "Menza_Katedralja_Santea",
+            "time": 120,
+            "exit_roads": [
+                "Katedralja_Santea_BillClinton",
+                "RobertDoll"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 3,
+            "name": "Menza_Katedralja_PTK",
+            "time": 120,
+            "exit_roads": [
+                "28Nentori",
+                "ImzotNikeprela",
+                "BulevardiDK"
+            ]
+        },
+        {
+            "start": 3,
+            "end": 17,
+            "name": "Katedralja_Menza_Katedralja",
+            "time": 120,
+            "exit_roads": [
+                "Menza_Katedralja_PTK",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "start": 3,
+            "end": 17,
+            "name": "Katedralja_Menza_Teknik", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_Teknik_Qerimi",
+                "Menza_Teknik_RrugaB", 
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 3,
+            "end": 17,
+            "name": "Katedralja_Menza_Qerimi", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_Qerimi_Teknik",
+                "HajrullahAbdullahu", 
+                "EnverMaloku"
+            ]
+        },
+        {
+            "start": 3,
+            "end": 17,
+            "name": "Katedralja_Menza_MAShTI", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_MAShTI_Parlamenti",
+                "KarlGega" 
+            ]
+        },
+        {
+            "start": 4,
+            "end": 17,
+            "name": "Teknik_Menza_Katedralja",  
+            "time": 180,
+            "exit_roads": [
+                "Menza_Katedralja_PTK",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "start": 4,
+            "end": 17,
+            "name": "Teknik_Menza_MAShTI", 
+            "time": 180,
+            "exit_roads": [
+                "Menza_MAShTI_Parlamenti",
+                "KarlGega" 
+            ]
+        },
+        {
+            "start": 4,
+            "end": 17,
+            "name": "Teknik_Menza_Qerimi",  
+            "time": 180,
+            "exit_roads": [
+                "Menza_Qerimi_Teknik",
+                "EnverMaloku", 
+                "HajrullahAbdullahu" 
+            ]
+        },
+        {
+            "start": 4,
+            "end": 17,
+            "name": "Teknik_Menza_Teknik",  
+            "time": 180,
+            "exit_roads": [
+                "Menza_Teknik_Qerimi",
+                "Menza_Teknik_RrugaB",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 5,
+            "end": 17,
+            "name": "Qerimi_Menza_Katedralja",
+            "time": 120,
+            "exit_roads": [
+                "Menza_Katedralja_PTK",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "start": 5,
+            "end": 17,
+            "name": "Qerimi_Menza_Teknik", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_Teknik_Qerimi",
+                "Menza_Teknik_RrugaB",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 5,
+            "end": 17,
+            "name": "Qerimi_Menza_MAShTI", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_MAShTI_Parlamenti",
+                "KarlGega" 
+            ]
+        },
+        {
+            "start": 7,
+            "end": 17,
+            "name": "MAShTI_Menza_Qerimi", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_Qerimi_Teknik",
+                "EnverMaloku", 
+                "HajrullahAbdullahu" 
+            ]
+        },
+        {
+            "start": 7,
+            "end": 17,
+            "name": "MAShTI_Menza_Teknik",  
+            "time": 120,
+            "exit_roads": [
+                "Menza_Teknik_Qerimi",
+                "Menza_Teknik_RrugaB",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 7,
+            "end": 17,
+            "name": "MAShTI_Menza_Katedralja", 
+            "time": 120,
+            "exit_roads": [
+                "Menza_Katedralja_PTK",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 5,
+            "name": "Menza_Qerimi_Teknik", 
+            "time": 120,
+            "exit_roads": [
+                "Qerimi_Teknik_Menza",
+                "Qerimi_Teknik_RrugaB",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 17,
+            "end": 5,
+            "name": "Menza_Qerimi_EnverMaloku", 
+            "time": 120,
+            "exit_roads": [
+                "EnverMaloku" 
+            ]
+        },
+        {
+            "start": 17,
+            "end": 5,
+            "name": "Menza_Qerimi_HajrullahAbdullahu",  
+            "time": 120,
+            "exit_roads": [
+                "HajrullahAbdullahu" 
+            ]
+        },
+        {
+            "start": 5001,
+            "end": 5,
+            "name": "HajrullahAbdullahu_Qerimi_EnverMaloku",  
+            "time": 30,
+            "exit_roads": [
+                "EnverMaloku"
+            ]
+        },
+        {
+            "start": 5001,
+            "end": 5,
+            "name": "HajrullahAbdullahu_Qerimi_Teknik", 
+            "time": 30,
+            "exit_roads": [
+                "Qerimi_Teknik_Menza",
+                "Qerimi_Teknik_RrugaB",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 5001,
+            "end": 5,
+            "name": "HajrullahAbdullahu_Qerimi_Menza",  
+            "time": 30,
+            "exit_roads": [
+                "Qerimi_Menza_Teknik",
+                "Qerimi_Menza_MAShTI",
+                "Qerimi_Menza_Katedralja"            
+            ]
+        },
+        {
+            "start": 5002,
+            "end": 5,
+            "name": "EnverMaloku_Qerimi_HajrullahAbdullahu",  
+            "time": 30,
+            "exit_roads": [
+                "HajrullahAbdullahu"          
+            ]
+        },
+        {
+            "start": 5002,
+            "end": 5,
+            "name": "EnverMaloku_Qerimi_Teknik", 
+            "time": 30,
+            "exit_roads": [
+                "Qerimi_Teknik_Menza",
+                "Qerimi_Teknik_RrugaB",
+                "FehmiLladrovci"    
+            ]
+        },
+        {
+            "start": 5002,
+            "end": 5,
+            "name": "EnverMaloku_Qerimi_Menza",  
+            "time": 30,
+            "exit_roads": [
+                "Qerimi_Menza_Teknik",
+                "Qerimi_Menza_MAShTI",
+                "Qerimi_Menza_Katedralja"           
+            ]
+        },
+        {
+            "start": 4,
+            "end": 5,
+            "name": "Teknik_Qerimi_EnverMaloku", 
+            "time": 60,
+            "exit_roads": [
+                "EnverMaloku"           
+            ]
+        },
+        {
+            "start": 4,
+            "end": 5,
+            "name": "Teknik_Qerimi_HajrullahAbdullahu", 
+            "time": 60,
+            "exit_roads": [
+                "HajrullahAbdullahu"           
+            ]
+        },
+        {
+            "start": 4,
+            "end": 5,
+            "name": "Teknik_Qerimi_Menza",  
+            "time": 60,
+            "exit_roads": [
+                "Qerimi_Menza_Teknik",
+                "Qerimi_Menza_MAShTI",
+                "Qerimi_Menza_Katedralja"              
+            ]
+        },
+        {
+            "start": 3,
+            "end": 13,
+            "name": "Katedralja_PTK_ImzotNikeprela",  
+            "time": 180,
+            "exit_roads": [
+                "ImzotNikeprela"            
+            ]
+        },
+        {
+            "start": 3,
+            "end": 13,
+            "name": "Katedralja_PTK_28Nentori",  
+            "time": 180,
+            "exit_roads": [
+                "28Nentori"            
+            ]
+        },
+        {
+            "start": 3,
+            "end": 13,
+            "name": "Katedralja_PTK_BulevardiDK",  
+            "time": 180,
+            "exit_roads": [
+                "BulevardiDK"            
+            ]
+        },
+        {
+            "start": 13001,
+            "end": 13,
+            "name": "28Nentori_PTK_Katedralja",  
+            "time": 30,
+            "exit_roads": [
+                "PTK_Katedralja_Menza",
+                "PTK_Katedralja_Santea"            
+            ]
+        },
+        {
+            "start": 13001,
+            "end": 13,
+            "name": "28Nentori_PTK_ImzotNikeprela",  
+            "time": 30,
+            "exit_roads": [
+                "ImzotNikeprela"            
+            ]
+        },
+        {
+            "start": 13001,
+            "end": 13,
+            "name": "28Nentori_PTK_BulevardiDK",  
+            "time": 30,
+            "exit_roads": [
+                "BulevardiDK"           
+            ]
+        },
+        {
+            "start": 13003,
+            "end": 13,
+            "name": "ImzotNikeprela_PTK_Katedralja",  
+            "time": 30,
+            "exit_roads": [
+                "PTK_Katedralja_Menza",
+                "PTK_Katedralja_Santea"            
+            ]
+        },
+        {
+            "start": 13003,
+            "end": 13,
+            "name": "ImzotNikeprela_PTK_28Nentori",  
+            "time": 30,
+            "exit_roads": [
+                "28Nentori"      
+            ]
+        },
+        {
+            "start": 13003,
+            "end": 13,
+            "name": "ImzotNikeprela_PTK_BulevardiDK",  
+            "time": 30,
+            "exit_roads": [
+                "BulevardiDK"      
+            ]
+        },
+        {
+            "start": 13002,
+            "end": 13,
+            "name": "BulevardiDK_PTK_28Nentori",  
+            "time": 30,
+            "exit_roads": [
+                "28Nentori"      
+            ]
+        },
+        {
+            "start": 13002,
+            "end": 13,
+            "name": "BulevardiDK_PTK_ImzotNikeprela",  
+            "time": 30,
+            "exit_roads": [
+                "ImzotNikeprela"      
+            ]
+        },
+        {
+            "start": 13002,
+            "end": 13,
+            "name": "BulevardiDK_PTK_Katedralja",  
+            "time": 30,
+            "exit_roads": [
+                "PTK_Katedralja_Menza",
+                "PTK_Katedralja_Santea"          
+            ]
+        },
+        {
+            "start": 17,
+            "end": 7,
+            "name": "Menza_MAShTI_Parlamenti",  
+            "time": 120,
+            "exit_roads": [
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",          
+                "IbrahimLutfiu"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 7,
+            "name": "Menza_MAShTI_KarlGega",  
+            "time": 120,
+            "exit_roads": [
+                "KarlGega"      
+            ]
+        },
+        {
+            "start": 7001,
+            "end": 7,
+            "name": "KarlGega_MAShTI_Menza",  
+            "time": 30,
+            "exit_roads": [
+                "MAShTI_Menza_Katedralja",
+                "MAShTI_Menza_Teknik",
+                "MAShTI_Menza_Qerimi"      
+            ]
+        },
+        {
+            "start": 7001,
+            "end": 7,
+            "name": "KarlGega_MAShTI_Parlamenti",  
+            "time": 30,
+            "exit_roads": [
+                "MAShTI_Parlamenti_XhamiaLlapitTregu",          
+                "IbrahimLutfiu"  
+            ]
+        },
+        {
+            "start": 8,
+            "end": 7,
+            "name": "Parlamenti_MAShTI_KarlGega",  
+            "time": 390,
+            "exit_roads": [
+                "KarlGega"  
+            ]
+        },
+        {
+            "start": 8,
+            "end": 7,
+            "name": "Parlamenti_MAShTI_Menza",  
+            "time": 390,
+            "exit_roads": [
+                "MAShTI_Menza_Qerimi",
+                "MAShTI_Menza_Teknik",
+                "MAShTI_Menza_Katedralja"  
+            ]
+        },
+        {
+            "start": 7,
+            "end": 8,
+            "name": "MAShTI_Parlamenti_IbrahimLutfiu",  
+            "time": 390,
+            "exit_roads": [
+                "IbrahimLutfiu"  
+            ]
+        },
+        {
+            "start": 9,
+            "end": 8,
+            "name": "XhamiaLlapitTregu_Parlamenti_IbrahimLutfiu",  
+            "time": 180,
+            "exit_roads": [
+                "IbrahimLutfiu"  
+            ]
+        },
+        {
+            "start": 9,
+            "end": 8,
+            "name": "XhamiaLlapitTregu_Parlamenti_MAShTI",  
+            "time": 180,
+            "exit_roads": [
+                "Parlamenti_MAShTI_Menza",  
+                "KarlGega"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 4,
+            "name": "Menza_Teknik_Qerimi",  
+            "time": 180,
+            "exit_roads": [
+                "Teknik_Qerimi_Menza",
+                "HajrullahAbdullahu", 
+                "EnverMaloku"
+            ]
+        },
+        {
+            "start": 17,
+            "end": 4,
+            "name": "Menza_Teknik_RrugaB",  
+            "time": 180,
+            "exit_roads": [
+                "MaxiMarket", 
+                "BibajSport" 
+            ]
+        },
+        {
+            "start": 17,
+            "end": 4,
+            "name": "Menza_Teknik_FehmiLladrovci",  
+            "time": 180,
+            "exit_roads": [
+                "FehmiLladrovci"
+            ]
+        },
+        {
+            "start": 5,
+            "end": 4,
+            "name": "Qerimi_Teknik_Menza",  
+            "time": 60,
+            "exit_roads": [
+                "Teknik_Menza_Qerimi",
+                "Teknik_Menza_MAShTI",
+                "Teknik_Menza_Katedralja",
+                "Teknik_Menza_Teknik"
+            ]
+        },
+        {
+            "start": 5,
+            "end": 4,
+            "name": "Qerimi_Teknik_RrugaB",  
+            "time": 60,
+            "exit_roads": [
+                "MaxiMarket", 
+                "BibajSport" 
+            ]
+        },
+        {
+            "start": 5,
+            "end": 4,
+            "name": "Qerimi_Teknik_FehmiLladrovci",  
+            "time": 60,
+            "exit_roads": [
+                "FehmiLladrovci"
+            ]
+        },
+        {
+            "start": 4001,
+            "end": 4,
+            "name": "FehmiLladrovci_Teknik_RrugaB",  
+            "time": 30,
+            "exit_roads": [
+                "MaxiMarket", 
+                "BibajSport" 
+            ]
+        },
+        {
+            "start": 4001,
+            "end": 4,
+            "name": "FehmiLladrovci_Teknik_Qerimi",  
+            "time": 30,
+            "exit_roads": [
+                "Teknik_Qerimi_Menza",
+                "EnverMaloku", 
+                "HajrullahAbdullahu" 
+            ]
+        },
+        {
+            "start": 4001,
+            "end": 4,
+            "name": "FehmiLladrovci_Teknik_Menza",  
+            "time": 30,
+            "exit_roads": [
+                "Teknik_Menza_Katedralja",
+                "Teknik_Menza_MAShTI",
+                "Teknik_Menza_Qerimi",
+                "Teknik_Menza_Teknik"
+            ]
+        },
+        {
+            "start": 6,
+            "end": 4,
+            "name": "RrugaB_Teknik_Qerimi",  
+            "time": 120,
+            "exit_roads": [
+                "Teknik_Qerimi_Menza",
+                "EnverMaloku", 
+                "HajrullahAbdullahu" 
+            ]
+        },
+        {
+            "start": 6,
+            "end": 4,
+            "name": "RrugaB_Teknik_Menza",  
+            "time": 120,
+            "exit_roads": [
+                "Teknik_Menza_Katedralja",
+                "Teknik_Menza_MAShTI",
+                "Teknik_Menza_Qerimi",
+                "Teknik_Menza_Teknik"
+            ]
+        },
+        {
+            "start": 6,
+            "end": 4,
+            "name": "RrugaB_Teknik_FehmiLladrovci",  
+            "time": 120,
+            "exit_roads": [
+                "FehmiLladrovci"
+            ]
+        },
+        {
+            "start": 4,
+            "end": 6,
+            "name": "Teknik_RrugaB_MaxiMarket",  
+            "time": 120,
+            "exit_roads": [
+                "MaxiMarket"
+            ]
+        },
+        {
+            "start": 4,
+            "end": 6,
+            "name": "Teknik_RrugaB_BibajSport",  
+            "time": 120,
+            "exit_roads": [
+                "BibajSport"
+            ]
+        },
+        {
+            "start": 6002,
+            "end": 6,
+            "name": "MaxiMarket_RrugaB_Teknik",  
+            "time": 30,
+            "exit_roads": [
+                "RrugaB_Teknik_Qerimi",
+                "RrugaB_Teknik_Menza",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 6002,
+            "end": 6,
+            "name": "MaxiMarket_RrugaB_BibajSport",  
+            "time": 30,
+            "exit_roads": [
+                "BibajSport"
+            ]
+        },
+        {
+            "start": 6001,
+            "end": 6,
+            "name": "BibajSport_RrugaB_Teknik",  
+            "time": 30,
+            "exit_roads": [
+                "RrugaB_Teknik_Qerimi",
+                "RrugaB_Teknik_Menza",
+                "FehmiLladrovci" 
+            ]
+        },
+        {
+            "start": 6001,
+            "end": 6,
+            "name": "BibajSport_RrugaB_MaxiMarket",  
+            "time": 30,
+            "exit_roads": [
+                "MaxiMarket"
+            ]
+        },
+        {
+            "start": 16003,
+            "end": 16,
+            "name": "MuharremFejza_Eulexi_ArbenorEAstritDehari",  
+            "time": 30,
+            "exit_roads": [
+                "ArbenorEAstritDehari"
+            ]
+        },
+        {
+            "start": 16003, 
+            "end": 16,
+            "name": "MuharremFejza_Eulexi_ErnestKoliqi",  
+            "time": 30,
+            "exit_roads": [
+                "ErnestKoliqi"
+            ]
+        },
+        {
+            "start": 16003,
+            "end": 16,
+            "name": "ArbenorEAstritDehari_Eulexi_MuharremFejza",  
+            "time": 30,
+            "exit_roads": [
+                "MuharremFejza"
+            ]
+        },
+        {
+            "start": 16003,
+            "end": 16,
+            "name": "ArbenorEAstritDehari_Eulexi_ErnestKoliqi",  
+            "time": 30,
+            "exit_roads": [
+                "ErnestKoliqi"
+            ]
+        },
+        {
+            "start": 16002,
+            "end": 16,
+            "name": "ErnestKoliqi_Eulexi_MuharremFejza",  
+            "time": 30,
+            "exit_roads": [
+                "MuharremFejza"
+            ]
+        },
+        {
+            "start": 16002,
+            "end": 16,
+            "name": "ErnestKoliqi_Eulexi_ArbenorEAstritDehari",  
+            "time": 30,
+            "exit_roads": [
+                "ArbenorEAstritDehari"
+            ]
+        },
+        {
+            "start": 8001,
+            "end": 8,
+            "name": "IbrahimLutfiu_Parlamenti_XhamiaLlapitTregu",  
+            "time": 30,
+            "exit_roads": [
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "MetoBajraktari",
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 8001,
+            "end": 8,
+            "name": "IbrahimLutfiu_Parlamenti_MAShTI",  
+            "time": 30,
+            "exit_roads": [
+                "Parlamenti_MAShTI_Menza",
+                "KarlGega"
+            ]
+        },
+        {
+            "start": 7,
+            "end": 8,
+            "name": "MAShTI_Parlamenti_XhamiaLlapitTregu",  
+            "time": 390,
+            "exit_roads": [
+                "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",
+                "MetoBajraktari",
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 8,
+            "end": 9,
+            "name": "Parlamenti_XhamiaLlapitTregu_MetoBajraktari",  
+            "time": 180,
+            "exit_roads": [
+                "MetoBajraktari"
+            ]
+        },
+        {
+            "start": 8,
+            "end": 9,
+            "name": "Parlamenti_XhamiaLlapitTregu_LidhjaPrizrenit",  
+            "time": 180,
+            "exit_roads": [
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 8,
+            "end": 9,
+            "name": "Parlamenti_XhamiaLlapitTregu_XhamiaLlapit",  
+            "time": 180,
+            "exit_roads": [
+                "LidhjaLezhes",
+                "VellezeritFazliu"
+            ]
+        },
+        {
+            "start": 9002,
+            "end": 9,
+            "name": "MetoBajraktari_XhamiaLlapitTregu_XhamiaLlapit",  
+            "time": 30,
+            "exit_roads": [
+                "LidhjaLezhes",
+                "VellezeritFazliu"
+            ]
+        },
+        {
+            "start": 9002,
+            "end": 9,
+            "name": "MetoBajraktari_XhamiaLlapitTregu_Parlamenti",  
+            "time": 30,
+            "exit_roads": [
+                "XhamiaLlapitTregu_Parlamenti_MAShTI",
+                "IbrahimLutfiu"
+            ]
+        },
+        {
+            "start": 9002,
+            "end": 9,
+            "name": "MetoBajraktari_XhamiaLlapitTregu_LidhjaPrizrenit",  
+            "time": 30,
+            "exit_roads": [
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 9001,
+            "end": 9,
+            "name": "LidhjaPrizrenit_XhamiaLlapitTregu_Parlamenti",  
+            "time": 30,
+            "exit_roads": [
+                "XhamiaLlapitTregu_Parlamenti_MAShTI",
+                "IbrahimLutfiu"
+            ]
+        },
+        {
+            "start": 9001,
+            "end": 9,
+            "name": "LidhjaPrizrenit_XhamiaLlapitTregu_MetoBajraktari",  
+            "time": 30,
+            "exit_roads": [
+                "MetoBajraktari"
+            ]
+        },
+        {
+            "start": 9001,
+            "end": 9,
+            "name": "LidhjaPrizrenit_XhamiaLlapitTregu_XhamiaLlapit",  
+            "time": 30,
+            "exit_roads": [
+                "VellezeritFazliu",
+                "LidhjaLezhes"
+            ]
+        },
+        {
+            "start": 10,
+            "end": 9,
+            "name": "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",  
+            "time": 180,
+            "exit_roads": [
+                "XhamiaLlapitTregu_Parlamenti_MAShTI",
+                "IbrahimLutfiu"
+            ]
+        },
+        {
+            "start": 10,
+            "end": 9,
+            "name": "XhamiaLlapit_XhamiaLlapitTregu_MetoBajraktari",  
+            "time": 180,
+            "exit_roads": [
+                "MetoBajraktari"
+            ]
+        },
+        {
+            "start": 10,
+            "end": 9,
+            "name": "XhamiaLlapit_XhamiaLlapitTregu_LidhjaPrizrenit",  
+            "time": 180,
+            "exit_roads": [
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "name": "XhamiaLlapitTregu_XhamiaLlapit_VellezeritFazliu",  
+            "time": 180,
+            "exit_roads": [
+                "VellezeritFazliu"
+            ]
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "name": "XhamiaLlapitTregu_XhamiaLlapit_LidhjaLezhes",  
+            "time": 180,
+            "exit_roads": [
+                "LidhjaLezhes"
+            ]
+        },
+        {
+            "start": 10002,
+            "end": 10,
+            "name": "VellezeritFazliu_XhamiaLlapit_XhamiaLlapitTregu",  
+            "time": 30,
+            "exit_roads": [
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+                "MetoBajraktari",
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 10001,
+            "end": 10,
+            "name": "LidhjaLezhes_XhamiaLlapit_XhamiaLlapitTregu",  
+            "time": 30,
+            "exit_roads": [
+                "XhamiaLlapit_XhamiaLlapitTregu_Parlamenti",
+                "MetoBajraktari",
+                "LidhjaPrizrenit"
+            ]
+        },
+        {
+            "start": 10002,
+            "end": 10,
+            "name": "VellezeritFazliu_XhamiaLlapit_LidhjaLezhes",  
+            "time": 30,
+            "exit_roads": [
+                "LidhjaLezhes"
+            ]
+        },
+        {
+            "start": 10001,
+            "end": 10,
+            "name": "LidhjaLezhes_XhamiaLlapit_VellezeritFazliu",  
+            "time": 30,
+            "exit_roads": [
+                "VellezeritFazliu"
+            ]
+        },
+        {
+            "start": 11001,
+            "end": 11,
+            "name": "IsmetKrasniqi_Vranjefc_Bardhosh",  
+            "time": 30,
+            "exit_roads": [
+                "Bardhosh"
+            ]
+        },
+        {
+            "start": 11001,
+            "end": 11,
+            "name": "IsmetKrasniqi_Vranjefc_AzizZhilivoda",  
+            "time": 30,
+            "exit_roads": [
+                "AzizZhilivoda"
+            ]
+        },
+        {
+            "start": 11003,
+            "end": 11,
+            "name": "AzizZhilivoda_Vranjefc_Bardhosh",  
+            "time": 30,
+            "exit_roads": [
+                "Bardhosh"
+            ]
+        },
+        {
+            "start": 11003,
+            "end": 11,
+            "name": "AzizZhilivoda_Vranjefc_IsmetKrasniqi",  
+            "time": 30,
+            "exit_roads": [
+                "IsmetKrasniqi"
+            ]
+        },
+        {
+            "start": 11002,
+            "end": 11,
+            "name": "Bardhosh_Vranjefc_AzizZhilivoda",  
+            "time": 30,
+            "exit_roads": [
+                "AzizZhilivoda"
+            ]
+        },
+        {
+            "start": 11002,
+            "end": 11,
+            "name": "Bardhosh_Vranjefc_IsmetKrasniqi",  
+            "time": 30,
+            "exit_roads": [
+                "IsmetKrasniqi"
+            ]
+        },
+        {
+            "start": 12003,
+            "end": 12,
+            "name": "UnazaQendrore_Tjegullorja_Vushtrria",  
+            "time": 30,
+            "exit_roads": [
+                "Vushtrria"
+            ]
+        },
+        {
+            "start": 12003,
+            "end": 12,
+            "name": "UnazaQendrore_Tjegullorja_Zagrebi",  
+            "time": 30,
+            "exit_roads": [
+                "Zagrebi"
+            ]
+        },
+        {
+            "start": 12003, 
+            "end": 12,
+            "name": "UnazaQendrore_Tjegullorja_Plava",  
+            "time": 30,
+            "exit_roads": [
+                "Plava"
+            ]
+        },
+        {
+            "start": 12002,
+            "end": 12,
+            "name": "Vushtrria_Tjegullorja_Plava",  
+            "time": 30,
+            "exit_roads": [
+                "Plava"
+            ]
+        },
+        {
+            "start": 12002,
+            "end": 12,
+            "name": "Vushtrria_Tjegullorja_UnazaQendrore",  
+            "time": 30,
+            "exit_roads": [
+                "UnazaQendrore"
+            ]
+        },
+        {
+            "start": 12002,
+            "end": 12,
+            "name": "Vushtrria_Tjegullorja_Zagrebi",  
+            "time": 30,
+            "exit_roads": [
+                "Zagrebi"
+            ]
+        },
+        {
+            "start": 12001,
+            "end": 12,
+            "name": "Zagrebi_Tjegullorja_Plava",  
+            "time": 30,
+            "exit_roads": [
+                "Plava"
+            ]
+        },
+        {
+            "start": 12001,
+            "end": 12,
+            "name": "Zagrebi_Tjegullorja_UnazaQendrore",  
+            "time": 30,
+            "exit_roads": [
+                "UnazaQendrore"
+            ]
+        },
+        {
+            "start": 12001,
+            "end": 12,
+            "name": "Zagrebi_Tjegullorja_Vushtrria",  
+            "time": 30,
+            "exit_roads": [
+                "Vushtrria"
+            ]
+        },
+        {
+            "start": 12004,
+            "end": 12,
+            "name": "Plava_Tjegullorja_UnazaQendrore",  
+            "time": 30,
+            "exit_roads": [
+                "UnazaQendrore"
+            ]
+        },
+        {
+            "start": 12004,
+            "end": 12,
+            "name": "Plava_Tjegullorja_Vushtrria",  
+            "time": 30,
+            "exit_roads": [
+                "Vushtrria"
+            ]
+        },
+        {
+            "start": 12004,
+            "end": 12,
+            "name": "Plava_Tjegullorja_Zagrebi",  
+            "time": 30,
+            "exit_roads": [
+                "Zagrebi"
+            ]
+        },
+        {
+            "start": 14003,
+            "end": 14,
+            "name": "KolegjiRiinvest_Lulishtja_UCK",  
+            "time": 30,
+            "exit_roads": [
+                "UCK"
+            ]
+        },
+        {
+            "start": 14003,
+            "end": 14,
+            "name": "KolegjiRiinvest_Lulishtja_FehmiAgani",  
+            "time": 30,
+            "exit_roads": [
+                "FehmiAgani"
+            ]
+        },
+        {
+            "start": 14003,
+            "end": 14,
+            "name": "KolegjiRiinvest_Lulishtja_Tirana",  
+            "time": 30,
+            "exit_roads": [
+                "Tirana"
+            ]
+        },
+        {
+            "start": 14002,
+            "end": 14,
+            "name": "UCK_Lulishtja_Tirana",  
+            "time": 30,
+            "exit_roads": [
+                "Tirana"
+            ]
+        },
+        {
+            "start": 14002,
+            "end": 14,
+            "name": "UCK_Lulishtja_KolegjiRiinvest",  
+            "time": 30,
+            "exit_roads": [
+                "KolegjiRiinvest"
+            ]
+        },
+        {
+            "start": 14002,
+            "end": 14,
+            "name": "UCK_Lulishtja_FehmiAgani",  
+            "time": 30,
+            "exit_roads": [
+                "FehmiAgani"
+            ]
+        },
+        {
+            "start": 14001,
+            "end": 14,
+            "name": "FehmiAgani_Lulishtja_Tirana",  
+            "time": 30,
+            "exit_roads": [
+                "Tirana"
+            ]
+        },
+        {
+            "start": 14001,
+            "end": 14,
+            "name": "FehmiAgani_Lulishtja_KolegjiRiinvest",  
+            "time": 30,
+            "exit_roads": [
+                "KolegjiRiinvest"
+            ]
+        },
+        {
+            "start": 14001,
+            "end": 14,
+            "name": "FehmiAgani_Lulishtja_UCK",  
+            "time": 30,
+            "exit_roads": [
+                "UCK"
+            ]
+        },
+        {
+            "start": 14004,
+            "end": 14,
+            "name": "Tirana_Lulishtja_UCK",  
+            "time": 30,
+            "exit_roads": [
+                "UCK"
+            ]
+        },
+        {
+            "start": 14004,
+            "end": 14,
+            "name": "Tirana_Lulishtja_KolegjiRiinvest",  
+            "time": 30,
+            "exit_roads": [
+                "KolegjiRiinvest"
+            ]
+        },
+        {
+            "start": 14004,
+            "end": 14,
+            "name": "Tirana_Lulishtja_FehmiAgani",  
+            "time": 30,
+            "exit_roads": [
+                "FehmiAgani"
+            ]
+        },
+        {
+            "start": 15001,
+            "end": 15,
+            "name": "Garibaldi_BQK_UkshinHoti",  
+            "time": 30,
+            "exit_roads": [
+                "UkshinHoti"
+            ]
+        },
+        {
+            "start": 15001,
+            "end": 15,
+            "name": "Garibaldi_BQK_Grandi",  
+            "time": 30,
+            "exit_roads": [
+                "Grandi"
+            ]
+        },
+        {
+            "start": 15001,
+            "end": 15,
+            "name": "Garibaldi_BQK_LuanHaradinaj",  
+            "time": 30,
+            "exit_roads": [
+                "LuanHaradinaj"
+            ]
+        },
+        {
+            "start": 15002,
+            "end": 15,
+            "name": "UkshinHoti_BQK_Grandi",  
+            "time": 30,
+            "exit_roads": [
+                "Grandi"
+            ]
+        },
+        {
+            "start": 15002,
+            "end": 15,
+            "name": "UkshinHoti_BQK_Garibaldi",  
+            "time": 30,
+            "exit_roads": [
+                "Garibaldi"
+            ]
+        },
+        {
+            "start": 15002,
+            "end": 15,
+            "name": "UkshinHoti_BQK_LuanHaradinaj",  
+            "time": 30,
+            "exit_roads": [
+                "LuanHaradinaj"
+            ]
+        },
+        {
+            "start": 15003,
+            "end": 15,
+            "name": "Grandi_BQK_LuanHaradinaj",  
+            "time": 30,
+            "exit_roads": [
+                "LuanHaradinaj"
+            ]
+        },
+        {
+            "start": 15003,
+            "end": 15,
+            "name": "Grandi_BQK_Garibaldi",  
+            "time": 30,
+            "exit_roads": [
+                "Garibaldi"
+            ]
+        },
+        {
+            "start": 15003,
+            "end": 15,
+            "name": "Grandi_BQK_UkshinHoti",  
+            "time": 30,
+            "exit_roads": [
+                "UkshinHoti"
+            ]
+        },
+        {
+            "start": 15004,
+            "end": 15,
+            "name": "LuanHaradinaj_BQK_Grandi",  
+            "time": 30,
+            "exit_roads": [
+                "Grandi"
+            ]
+        },
+        {
+            "start": 15004,
+            "end": 15,
+            "name": "LuanHaradinaj_BQK_UkshinHoti",  
+            "time": 30,
+            "exit_roads": [
+                "UkshinHoti"
+            ]
+        },
+        {
+            "start": 15004,
+            "end": 15,
+            "name": "LuanHaradinaj_BQK_Garibaldi",  
+            "time": 30,
+            "exit_roads": [
+                "Garibaldi"
+            ]
+        },
+        {
+            "start": 18001,
+            "end": 18,
+            "name": "AhmetKrasniqi_KomunaRe_Cacttus",  
+            "time": 30,
+            "exit_roads": [
+                "Cacttus"
+            ]
+        },
+        {
+            "start": 18001,
+            "end": 18,
+            "name": "AhmetKrasniqi_KomunaRe_HotelAdria",  
+            "time": 30,
+            "exit_roads": [
+                "HotelAdria"
+            ]
+        },
+        {
+            "start": 18002,
+            "end": 18,
+            "name": "Cacttus_KomunaRe_HotelAdria",  
+            "time": 30,
+            "exit_roads": [
+                "HotelAdria"
+            ]
+        },
+        {
+            "start": 18002,
+            "end": 18,
+            "name": "Cacttus_KomunaRe_AhmetKrasniqi",  
+            "time": 30,
+            "exit_roads": [
+                "AhmetKrasniqi"
+            ]
+        },
+        {
+            "start": 18003,
+            "end": 18,
+            "name": "HotelAdria_KomunaRe_AhmetKrasniqi",  
+            "time": 30,
+            "exit_roads": [
+                "AhmetKrasniqi"
+            ]
+        },
+        {
+            "start": 18003,
+            "end": 18,
+            "name": "HotelAdria_KomunaRe_Cacttus",  
+            "time": 30,
+            "exit_roads": [
+                "Cacttus"
+            ]
+        }      
+    ],
+    "cars": [
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku",
+                "EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku",
+                "EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku",
+                "EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku",
+                "EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Qerimi",
+                "Menza_Qerimi_EnverMaloku",
+                "EnverMaloku"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 6,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_MAShTI",
+                "Menza_MAShTI_Parlamenti",
+                "MAShTI_Parlamenti_XhamiaLlapitTregu"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        },
+        {
+            "path_length": 5,
+            "path": [
+                "Lakrishte_BillClinton_Santea",
+                "BillClinton_Santea_Katedralja",
+                "Santea_Katedralja_Menza",
+                "Katedralja_Menza_Teknik",
+                "Menza_Teknik_RrugaB"
+            ]
+        }
+    ],
+    "constraints": [
+        {
+            "type": "simultaneously_signal",
+            "intersection": 1,
+            "streets": [
+                "Lakrishte_BillClinton_Santea",
+                "Santea_BillClinton_Lakrishte"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 1,
+            "streets": [
+                "Tuneli_BillClinton_ShtjefenGjeqovi",
+                "ShtjefenGjeqovi_BillClinton_Tuneli"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 1,
+            "streets": [
+                "Santea_BillClinton_Tuneli",
+                "Lakrishte_BillClinton_ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "type": "all_red_phase",
+            "intersection": 1,
+            "interval":4
+        },
+        {
+            "type": "signal_phase_order",
+            "intersection": 1,
+            "streets": [
+                "Lakrishte_BillClinton_Santea",
+                "Lakrishte_BillClinton_ShtjefenGjeqovi"
+            ]
+        },
+        {
+            "type": "signal_phase_order",
+            "intersection": 1,
+            "streets": [
+                "Santea_BillClinton_Lakrishte",
+                "Santea_BillClinton_Tuneli"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 2,
+            "streets": [
+                "BillClinton_Santea_Katedralja",
+                "Katedralja_Santea_BillClinton"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 2,
+            "streets": [
+                "Katedralja_Santea_RobertDoll",
+                "BillClinton_Santea_RobertDoll"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 2,
+            "streets": [
+                "RobertDoll_Santea_BillClinton",
+                "RobertDoll_Santea_Katedralja"
+            ]
+        },
+        {
+            "type": "all_red_phase",
+            "intersection": 2,
+            "interval":1
+        },
+        {
+            "type": "signal_phase_order",
+            "intersection": 2,
+            "streets": [
+                "BillClinton_Santea_Katedralja",
+                "BillClinton_Santea_RobertDoll"
+            ]
+        },
+        {
+            "type": "signal_phase_order",
+            "intersection": 2,
+            "streets": [
+                "Katedralja_Santea_BillClinton",
+                "Katedralja_Santea_RobertDoll"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 3,
+            "streets": [
+                "Santea_Katedralja_Santea", 
+                "Menza_Katedralja_PTK"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 3,
+            "streets": [
+                "Santea_Katedralja_Menza",
+                "Menza_Katedralja_Santea"
+            ]
+        },
+        {
+            "type": "simultaneously_signal",
+            "intersection": 7,
+            "streets": [
+                "Menza_MAShTI_XhamiaLlapit",
+                "XhamiaLlapit_MAShTI_Menza"
+            ]
+        }
+    ]
+}

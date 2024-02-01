@@ -5,14 +5,165 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac77c486-0224-41dd-b819-1fcf03924681" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SemaphoreSyncInput/1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SemaphoreSyncOutput/output_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SemaphoreSyncOutput/output_solution_1_file_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semaphore_sync.py" beforeDir="false" afterPath="$PROJECT_DIR$/semaphore_sync_solution_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SemaphoreSyncOutput/output_solution_1_file_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SemaphoreSyncOutput/output_solution_2_file_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/00d6971cddcf8d2657e47538921fc6482b613c40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/026a92a5a0c3c734f5546ac22ee075e638ab1ce0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/041950c0eda4349a969cc7449f2bfae82428d038.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0544f4a4f418e0ace747445b7378df7d13922c01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/05b8b43c4c94d9f44383d2cfe5444c7b10b71417.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/05e3051120e38eeb1c3d723877c9b8483d6adb22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/07147e05b4c8e2b404d79ecf2c4d6052ec9c26a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/07b8c6b3af7db1c3c61894c4cc52501a2b0c2a18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0a6875ef5f6462ce43afc6ab7a8bbded99443ec7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0bdb5a38083f1433c1ec0a8720856651640a7dd1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0d381bb698fd6d3044936d156659782178c64cdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0f56120e72793075e3c8011e2d4bcafa5510f2ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0f5711c3477ea3f109f46f6a9e9646713c50a771.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0f6aaeda4f2bb97c225de61d52b2ccaef20d3aae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0fa9c6d4ef3bfe7f12de98e7cf7142a265640179.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/10da853b27a6153b3aabd805a3a1189c498cc248.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1305c9cc9f581d4e004a652b1ae7755ec6ded53c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/141b32f90cc1ac38bca35c4bb86668d2fa4e6630.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/17ee3ece43b9a7e6cae502d91c9e7f649f628fda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/198b5ec501393b128efa772e58ca88936aaa6e9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1b8006bf6712be5b07356301fb5d1454c53728fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1cee9cf54f4c06b508bae65d843f6528576dbede.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1dab4ebcdfb3619fca2e8b5a7e8db656a91f8c4c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1e1874d00a594edee471c6ab4135519e49990ced.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1e6c5f6f2d96da81c01ba2361893bc4db3c045a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1f85bd28fe1332873c053e8d0b38ab8e84c57da0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1f9ac075efae2606c0e05b0c17b6f3b71a28a10b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1fc76acc94a2ae2688acd90675b5183478d4dcac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/21aeb4ff082ffa5b9ab806ba5a9a051b67b1d3fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/23e45f5c2e8c53e770692130f6c7cf4c4d0b29b4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/25bcc7c0013c4c8260949cf8f058d23b4041190d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2b2c16a2d97d32b769f5c2c7bfc426b662e56cc5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2b60eca9d16d5329458a9a7f91ed5f566d7c6e65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2eeb9bfdc3347aec903215e34d3062efaf3b0c30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2f229c17bce96463c68bfc2b08069ed1fe1f919d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2fd8d64639693faebb76f088357de421fd6a60e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/33a1c7880ee808346c6f7abe7f073a2118076cd2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/33bbe8935dd97b60ee2a09c6c42579d561a059a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/3411e6d2169570a7920829dfe73d67282817f857.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/35ac02f0ddf459819604b1ba556d03081a8e56ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/3b65d1faf02dd6d508af8da54f635ab73f8d18d1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/3b71d92bdc83f2490cd81ee37d2b42aee31eb411.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/3f027a7dc3d7ad26725ca34f3c1eb873adfdb638.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/3f06c5c5aa49583244b601bfda74fa8989f853d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/44ad7d5e42f8b373156637c3fc176cac14ae3096.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/453b76f22674094794c7d9d3df32fcb85c0a550b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/48ae9a83068cb936d6bbf29c29394ed7087b8337.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/4abe6c1d49e3d022e5a1bfd8d193889ee9654f2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/4cf628da8e8f3c14e0ddc180810cf414f108a8da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/4d80c5d9c0f417669025b69cf0885334d684e4c6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/4ebd28e81e5b6d0afac32cb80d23bba3d98c63c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/50a527f0f13ab014d2788813804d268f4883f778.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/529477f4aa76365a4c1ba6448613b77148a7bf5f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/556a101054987f8bd2eee748935025314ec30f8d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/57192c3ec78a9438d51316fcd7ac26999be6207d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/5739ff7d2818a12cf58f6a56dff2a66b45b3675a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/59aaad952cfce484e9650111392f693abd252d86.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/5a92964dc7e08a0ca466b5369def256a5ca2d3b4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/5d469ef29c7fe9b6a84766f368f1efd84e66b575.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/5eadd9251dc834473d0707761232179831896f1b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/6122e6cb5f5998a9e2180c8aa7d29c6c0b1ded16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/62f2ef5d9db3daa7357bc0f0cc7e286e4c07c8f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/655be5390ec57ad84698ba28fc9695ce0fb3db88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/65d2cb98410b30aec3217817f4323afb2b0478c1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/66dd8949e018baf8ce1426ca4b41fae31d712970.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/67072e556c344eb1cae7dd59df506460a6def8b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/680d37c29f6bb0e68fc849d37461af6cc4020ac1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/6917225424e349b1a6fc8210801c0d0914f75518.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/693e4864f0252084be34e7bb963f59528215d791.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/6b0cf2e9c63954247dea6efc5cd1fc23bfb5d017.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/6d233a711e5074bb82282f1e1ab59efcf29ef44e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/6d7b0095174c2b474885a5281f46c4f04e9023dd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/711e765a12d3d7cf34ff2c9b0c4e349d5af95cf9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/71b9ba1bbe0305363792edbad905c383ba4d267a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/73819a7c549da44e690d7b5dbb34ba843b21c51d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/76ce016c364886f7ba26f6dac8540ba049dafa46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/7b1aeac38d60d73032af92e609f74fde858f93b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/7e0d06ff60787ca761593c83ddd64b7c75124987.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/804173ccc32292f970cd7db162c3f7f6aa951ebf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/8326afe8189bbd8841fac30b9c87325c918d6c15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/84538ff7447ca218698be26298019c06c17e1d2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/846fe9a3ea056a207b09d172deedd1ca232da0d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/84b0ee7f296edd76154b7e17602b0a42249dbfe0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/852c971abb20e8fde39cff7fbad7b7355c17a6f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/855601856cda0689d2dc87020e1f7201caaa8da1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/886c4db9ce823967c7e50242d10270233947cd4e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/8937c0ac0750ae85f5891e0764397cf9b2bee756.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/899fabc47cc985bf89ca01aeb59a0f365a2cffbd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/8c15d827ccb49313666bdd6ea05d34d8496b6630.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/8c32a4831a2b6450db342e12d5a1e1d7e2eef125.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/91b4052877dbbc5385f47fa5be5f352ec89a3c2b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/91e889a32cea9ec4ab42b7885caee13e5c1e5428.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/925d66c46e65ca8dc647801e066d249a96c0d0a1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/930d864909a8a8ae23851b79d0f2d15955f103ba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/94c4fbcaae15f0627384fd1621ccbdbc29e747e2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/960a961d71931025d219dcf321f3fe42f5858a07.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/9701e3a898f53805d82fb4c584062786f80d79a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/97393d5133114df8e57dade89cf3cde293f8a47d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/97c183be37fb0094979f17031552b540b587a6a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/98bb4aaeaf18b6e5849bd3fb0052ed375f70a2a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/9c3386e1da67f4e0e080c2c81600af49b27aba69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/9c5eb546a898cdfd38f5b3068138e1c2f0dd02f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/9ed9bbdd47540972868c35a019891ae417220646.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a0928acbadf5ba223f9b694b3950bd694e6c9211.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a4eaeb89fddd733c1ea43ab4d63fb5ca01b98c4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a736f3cdb2bbd6aa3d7a595d22307c40c383cbab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a973c8568fedca005f785ce2ebcbeb12641dcc0d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a9bf5793f6351232cfa889c8f82175aea7402253.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/a9d094b7e677cf3f256f988d9222ce572366542b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/aaf6892ced6ed8ff36a88c5d006f9341e0e7ab23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b0f32af4619642e7aa72dd8404491be736241e27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b2c6224a09b57285088b61b4793ce91ebd1a893e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b2ff5b523bbe8fa402770432a3e6f496b4fce3f0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b4bd37c869740b51bd2c76b67a318b4fcb381364.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b67e19871d2d1cb85143d3426a79b4ebea295d4e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/b77cff07d7405a559ed9fef2025f1e2ca816a229.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/bbdf35d03694820fc3c367b6132d835e2e20dee1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/bd65d4a985b93e6d1a160e3553ea8f2b2d36cbdb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/bde71cc79337c9575cd7ea73a3f0122389626bd2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c2cb4959b0d5cb7683629aac1b3a2fd75881617c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c359a2a6553b760623f8330f277a4ba026845953.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c5a809ab4ebb42f57c859c769cb1e8eeafdfd763.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c6c22b43494e8234fed2d64bf0460f941fba3c6d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c6c5178cb78666ab8c22a63cc50f72eb44a3ada7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c7979b05875cd0ba1b6b8a00c406b1c14f8abdf1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c9352e0d15418d82db67034c27f2562fe15cf2de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/cf873de81acead41050eab339a2cec76edbac2e9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/cfbc10412ed967b3984d055aec03ed5fb7a23eb9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/d2dff98ec6b31f6ebb8b104e4519e8fc082405ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/d8a35946f22e33042f3d29fda57efc3acdb5d86c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/d9939eb73f46d45832721a4201da5460906bbe1b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e0529d19f7a11e7b521669063621dd44f929a32c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e1636e12c56604a6a1bc72cbc2204e2f84041179.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e2b211b9273116ea6ead18411fc510a23db5efa5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e2daeff679a0af7aca40fab47251b8850e12baa9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e49089b594b0c5ee443b8907d2dcb01b6a5aed3b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e4c0e4405469d85a450c3be1639d4bf2cc881128.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e639f8b84ebc3be7e373204dde37fbf4a29c0508.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e6f191c5bc6d93b94af73e8f2d31280d7283c6e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e73d75456f429127a7d5cd8b21f84c70b872e030.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/e96023bcce9edebfec155c8a01c5d7c20617324f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/eac94c5bf139a347ee74f1eabaff576e884ef66e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/ef91a015008a4fc3a69304923080052f0b5b3d65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/f108e9320abb31e4526f58cfb5027d98d0f61d48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/f24f150db5d0beae00cbf17362b95018d7a7c679.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/f733ec9753c63f43f283423ebbb43cbb3feb6507.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/f7b87a05628b1a322e27917093b3d4ac8302a158.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/fb2a609ab096c9b0739d506b9e5fb8948581b02f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/fb30b0ed170374ecd65dbc0c28639c9d707e5770.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/fb669e494632fbedb1719e8c80846ccc69ea5d74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/ff1cfa7f614661d26e007403b10671fe9885b170.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/ff9729e8e1a557a0ac3ac687e484c09772e01a3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semaphore_sync_solution_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semaphore_sync_solution_2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +176,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bHzsBZYqTHKml8DYuXj6YS0Stz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,16 +188,68 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/GentritIbishi/PycharmProjects/GoldenTaxiRouteGenerator_Gr_Teuta",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.semaphore_sync_solution_1">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GentritIbishi\PycharmProjects\GoldenTaxiRouteGenerator_Gr_Teuta" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.semaphore">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoldenTaxiRouteGenerator_Gr_Teuta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoldenTaxiRouteGenerator_Gr_Teuta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/semaphore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="semaphore_sync_solution_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GoldenTaxiRouteGenerator_Gr_Teuta" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,10 +294,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GoldenTaxiRouteGenerator_Gr_Teuta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.semaphore" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.semaphore_sync_solution_1" />
         <item itemvalue="Python.semaphore_sync_solution_2" />
+        <item itemvalue="Python.aa" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +334,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705886997010</updated>
-      <workItem from="1705887013231" duration="2481000" />
+      <workItem from="1705887013231" duration="9107000" />
+      <workItem from="1706049147046" duration="26117000" />
+      <workItem from="1706397634408" duration="3442000" />
+      <workItem from="1706712152292" duration="3437000" />
+      <workItem from="1706726636209" duration="98000" />
+      <workItem from="1706733599915" duration="24672000" />
     </task>
     <servers />
   </component>
@@ -114,7 +347,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$semaphore_sync_solution_2.coverage" NAME="semaphore_sync_solution_2 Coverage Results" MODIFIED="1705889390324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$semaphore_sync_solution_1.coverage" NAME="semaphore_sync_solution_1 Coverage Results" MODIFIED="1705889453501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$aa.coverage" NAME="aa Coverage Results" MODIFIED="1706205883884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$test.coverage" NAME="test Coverage Results" MODIFIED="1706802175746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$semaphore_sync_solution_2.coverage" NAME="semaphore_sync_solution_2 Coverage Results" MODIFIED="1706227363203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$testing.coverage" NAME="testing Coverage Results" MODIFIED="1706205598390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$semaphore_sync_solution_1.coverage" NAME="semaphore_sync_solution_1 Coverage Results" MODIFIED="1706789421858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GoldenTaxiRouteGenerator_Gr_Teuta$semaphore.coverage" NAME="semaphore Coverage Results" MODIFIED="1706797434064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
