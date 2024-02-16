@@ -29,7 +29,7 @@ Prepare a JSON file (input_pr.json) containing intersection data in the specifie
 Specify the path to your input folder containing the CSV files.
 Specify the path to your output folder where the summary files will be saved. If the output folder does not exist, it will be created automatically.
 
-### Run the Script:
+## Run the Script:
 
 Navigate to the script's directory.
 Run the script using Python by entering the following command in your terminal or command prompt:
