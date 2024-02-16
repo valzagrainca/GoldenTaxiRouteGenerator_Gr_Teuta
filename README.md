@@ -53,7 +53,7 @@ Contributions to improve this script are welcome. Please feel free to fork the r
 
 # License
 
-This project is open-source and available under the [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/valzagrainca/GoldenTaxiRouteGenerator_Gr_Teuta/blob/main/LICENSE.txt).
+This project is open-source and available under the [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/valzagrainca/GoldenTaxiRouteGenerator_Gr_Teuta/blob/main/LICENSE.txt)
 
 
 
