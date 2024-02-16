@@ -18,19 +18,18 @@ Ensure you have Python installed on your system. This script has been tested wit
 ```bash
 pip install pandas geopy requests
 ````
-## Installation
 
-# Prepare Your Data:
+### Prepare Your Data:
 
 Ensure your CSV files are located in a single input directory. These files should contain columns for latitude, longitude, device date-time, and other relevant flags (e.g., Di1, Di2, Di3).
 Prepare a JSON file (input_pr.json) containing intersection data in the specified format.
 
-# Set Up Directories:
+### Set Up Directories:
 
 Specify the path to your input folder containing the CSV files.
 Specify the path to your output folder where the summary files will be saved. If the output folder does not exist, it will be created automatically.
 
-# Run the Script:
+### Run the Script:
 
 Navigate to the script's directory.
 Run the script using Python by entering the following command in your terminal or command prompt:
